@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FilterDuplicateData",
+            "request": "launch",
+            "mainClass": "com.willisyang.algorithm.FilterDuplicateData",
+            "projectName": "geek_train_2c85ad7b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FilterDuplicateData",
+            "request": "launch",
+            "mainClass": "FilterDuplicateData",
+            "projectName": "geek_train_2c85ad7b"
+        }
+    ]
+}
